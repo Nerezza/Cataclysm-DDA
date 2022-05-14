@@ -2244,12 +2244,12 @@
     "looks_like": "hazmat_suit",
     "color": "brown",
     "armor": [
-      { "covers": [ "head" ], "coverage": 100, "encumbrance": [ 7, 7 ] },
+      { "covers": [ "head" ], "coverage": 100, "encumbrance": [ 7, 7 ], "layers": [ "SKINTIGHT" ] },
       { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 7, 7 ] },
       { "covers": [ "leg_l", "leg_r" ], "coverage": 100, "encumbrance": [ 7, 7 ] },
-      { "covers": [ "foot_l", "foot_r" ], "coverage": 100, "encumbrance": [ 7, 7 ] },
+      { "covers": [ "foot_l", "foot_r" ], "coverage": 100, "encumbrance": [ 7, 7 ], "layers": [ "SKINTIGHT" ] },
       { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [ 7, 7 ] },
-      { "covers": [ "hand_l", "hand_r" ], "coverage": 100, "encumbrance": [ 7, 7 ] }
+      { "covers": [ "hand_l", "hand_r" ], "coverage": 100, "encumbrance": [ 7, 7 ], "layers": [ "SKINTIGHT" ] }
     ],
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "250 ml", "max_contains_weight": "1 kg", "moves": 80 },
