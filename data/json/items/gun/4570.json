@@ -54,6 +54,7 @@
     "color": "dark_gray",
     "symbol": "(",
     "ammo": [ "4570" ],
+    "range": -3,
     "ranged_damage": { "damage_type": "bullet", "amount": -15 },
     "dispersion": 180,
     "durability": 8,
